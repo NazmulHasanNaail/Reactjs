@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+.heading{
+    background-color: purple;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+}
+.card{
+    background-color: #ffda74;
+    box-shadow: 2px 4px 4px gray;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+    width: 390px;
+}
+.title{
+    font-size: 28px;
+    text-align: center;
+}
+.desc{
+    text-align: justify;
+}
+.date{
+    text-align: center;
+    font-weight: 700;
+    display: block;
+}
